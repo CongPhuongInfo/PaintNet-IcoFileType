@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\IcoFileType.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\IcoFileType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\IcoFileType.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\bin\IcoFileType.deps.json
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\bin\IcoFileType.dll
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\bin\IcoFileType.pdb
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\IcoFileType.dll
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\refint\IcoFileType.dll
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\IcoFileType.pdb
+C:\Users\Administrator\Downloads\PaintNet-IcoFileType\obj\Release\ref\IcoFileType.dll
