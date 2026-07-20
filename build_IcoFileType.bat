@@ -30,10 +30,10 @@ if errorlevel 1 (
 )
 echo [OK]  Da tao bin\IcoFileType.dll
 
-set /p DEPLOY="Copy IcoFileType.dll vao %PDN_DIR%\Effects\ khong? (y/n): "
+set /p DEPLOY="Copy IcoFileType.dll vao %PDN_DIR%\FileTypes\ khong? (y/n): "
 if /i "%DEPLOY%"=="y" (
-    copy /Y "bin\IcoFileType.dll" "%PDN_DIR%\Effects\" >nul
-    echo [OK]  Da copy vao %PDN_DIR%\Effects\
+    copy /Y "bin\IcoFileType.dll" "%PDN_DIR%\FileTypes\" >nul
+    echo [OK]  Da copy vao %PDN_DIR%\FileTypes\
 )
 
 echo [INFO] Xong. Khoi dong lai Paint.NET de thay hieu ung moi.
